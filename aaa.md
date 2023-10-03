@@ -3,6 +3,7 @@
 [https://github.com/xyl198809041/microbit_lab](https://github.com/xyl198809041/microbit_lab)
 
 ![face.png](https://flowus.cn/preview/6e83606d-286e-466c-b4e7-4ad1557ae0fb)
+![屏幕截图 2023-09-25 183410](https://github.com/xyl198809041/gz_F_Q/assets/16719471/78e664aa-1edb-4876-bc6d-20ea122f47e6)
 
 # 参考网页
 
